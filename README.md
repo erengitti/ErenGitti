@@ -1,4 +1,4 @@
-Installation for Termux
+Termux Kurulumu
 
 $ apt update
 
