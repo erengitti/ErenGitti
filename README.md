@@ -1,4 +1,4 @@
-Installation for Termux
+⭐️  Ereɳ Gitti  ⭐️ Termux Kurulum
 
 $ apt update
 
@@ -8,7 +8,7 @@ $ apt install python
 
 $ apt install git
 
-$ git clone https://github.com/Myyepz/NewSB
+$ git clone https://github.com/erengitti/NewSB
 
 $ cd NewSB
 
@@ -20,7 +20,7 @@ $ python3 sby.py
 
 Installation for VPS
 
-$ git clone https://github.com/Myyepz/NewSB
+$ git clone https://github.com/erengitti/NewSB
 
 $ cd NewSB
 
@@ -30,40 +30,4 @@ $ python3 sby.py
 
 ------------------------------
 
-Rework By Yepz @Myyepz
-
-Special Thanks:
-
-LINE Square
-
-HelloWorld Square
-
-Discord
-
-HelloWorld
-
-Author
-
-• Zero Cool / @crash-override404
-
-• Fadhiil Rachman / @fadhiilrachman
-
-• Alin / @muhmursalind
-
-Support
-
-All Hello World Members :
-
-• Tanduri a.k.a HelloTan / @hellotan
-
-• Fauzan Ardhana / @fauzanardh
-
-• Moe Poi ~ / @moepoi
-
-• Muhammad Fahri / @FAHRIZTX
-
-• Dosugamea / @Dosugamea
-
-• Dzin / @dzingans
-
-And others.
+Rework By ⭐️  Ereɳ Gitti  ⭐️
